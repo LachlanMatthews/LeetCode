@@ -12,6 +12,10 @@ class Solution(object):
             else:
                 result += values[symbols.index(s[x])]
         return result
+        """
+        :type s: str
+        :rtype: int
+        """
 
 # https://leetcode.com/problems/roman-to-integer/
 
